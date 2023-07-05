@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mehmetaliduzgun
-- 👀 I’m interested in Mathematics, Science, Statistics, No-Code Automation and currently learning Data-Science. Also I'm a petrolhead.
+- 📚 I graduated from Ege University, Department of Mathematics. I am a data enthusiast with a strong mathematical background.
+- 👀 I’m interested in Mathematics, Science, Statistics, No-Code Automation and currently learning Data-Science. Also I'm a petrolhead and I love watches.
 - 🌱 I’m currently learning Python and Data-Science
 - 📫 How to reach me twitter.com/matematikcigenc, https://www.linkedin.com/in/mehmet-ali-duzgun/
 
